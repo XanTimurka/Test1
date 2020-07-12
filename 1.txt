@@ -1,2 +1,1 @@
 https://gitlab.it-razrabotki.ru/fmap/fmap
-https://gitlab.it-razrabotki.ru/fmap/master
